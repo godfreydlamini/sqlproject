@@ -1,1 +1,1 @@
-# sql_testing
+# sql_project
